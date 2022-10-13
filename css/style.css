@@ -1,0 +1,33 @@
+.baz {
+  color: blueviolet;
+  text-align: center;
+}
+
+#spec{
+  color: deeppink;
+  text-align: center;
+}
+
+p {
+  color: pink;
+}
+
+div {
+  border: 3px #000000 solid;
+  background-color: #ff8dcf;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  line-height: 1.5;
+  padding: 20px;
+  margin: 20px;
+}
+
+table, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 20px;
+}
+
+
+
